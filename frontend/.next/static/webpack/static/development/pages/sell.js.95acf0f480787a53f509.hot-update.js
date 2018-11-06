@@ -27,7 +27,20 @@ var Sell = function Sell(props) {
       lineNumber: 3
     },
     __self: this
-  }, "Sell!"));
+  }, "Sell!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Link, {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 5
+    },
+    __self: this
+  }, "Home!")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Sell);
@@ -54,4 +67,4 @@ var Sell = function Sell(props) {
 /***/ })
 
 })
-//# sourceMappingURL=sell.js.4441fe5ffdf23b32efa9.hot-update.js.map
+//# sourceMappingURL=sell.js.95acf0f480787a53f509.hot-update.js.map
